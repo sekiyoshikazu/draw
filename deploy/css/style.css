@@ -1,0 +1,20 @@
+@charset "utf-8";
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+
+#container {
+  width: 960px;
+  margin: 0 auto;
+}
+#container canvas {
+  margin: 0 auto;
+}
+
+#caption {
+  color: #fff;
+  text-align: center;
+}
